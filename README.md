@@ -12,7 +12,7 @@
 ## 1. Clone the repository
 ```bash
 git clone https://github.com/TLIBA-Ahmed/django-project.git
-cd PFW_2526_3IA3
+cd Workshop1
 ```
 ---
 
